@@ -1,7 +1,7 @@
 import <iostream>
 
 int main() {
-    std::cout << "Hello you" << std::endl;
+    std::cout << "Hello world" << std::endl;
 
     return 0;
 }
